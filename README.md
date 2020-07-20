@@ -1,4 +1,4 @@
-### Hi Vishwas there 👋
+### Hi Vishwas Here 👋
 * I'am a 4th year Electronics and Communication Engineering student.
 * 🔭 I’m currently working on Python Projects and OpenCV
 * 🌱 I’m currently learning Machine learning
