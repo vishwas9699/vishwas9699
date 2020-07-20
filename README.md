@@ -8,4 +8,4 @@
 * 😄 Pronouns:He/His
 * ⚡ Fun fact:A diamond will not dissolve in acid. The only thing that can destroy it is intense heat.
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishwas9699&&show_icons=true&title_color=151515&icon_color=ff0000&text_color=151515&bg_color=ffffff">
+<img src="https://github-readme-stats.vercel.app/api?username=vishwas9699&&show_icons=true&title_color=151515&icon_color=ff0000&text_color=151515&bg_color=FFFFCC">
