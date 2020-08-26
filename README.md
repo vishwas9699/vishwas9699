@@ -4,7 +4,6 @@
 * 🌱 I’m currently learning Machine learning
 * 🤔 I’m looking for help with Technical things
 * 💬 Ask me about Python and Any Tech related stuff
-* 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/vishwas-v-b25272152/)   [Twitter](https://twitter.com/Vishwas39798958)
 * 😄 Pronouns:He/His
 * ⚡ Fun fact:A diamond will not dissolve in acid. The only thing that can destroy it is intense heat.
 
