@@ -10,8 +10,8 @@
 
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Vishwas09061999)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/vishwas-v-b25272152/)
+[<img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/>](https://twitter.com/Vishwas09061999)
+[<img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>](https://www.linkedin.com/in/vishwas-v-b25272152/)
 [<img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>](https://www.instagram.com/__vishwas__vishu__/)
 [<img src="https://img.icons8.com/cute-clipart/64/000000/facebook-new.png"/>](https://www.facebook.com/profile.php?id=100005346169375)
 
