@@ -1,6 +1,6 @@
 ### Hi Vishwas Here 👋
 * I'am a 4th year Electronics and Communication Engineering student.
-* 🔭 I’m currently working on Python and OpenCV Projects.
+* 🔭 I’m currently working on Python Projects.
 * 🌱 I’m currently learning Machine learning
 * 🤔 I’m looking for help with Technical things
 * 💬 Ask me about Python and Any Tech related stuff
