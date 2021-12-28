@@ -1,11 +1,10 @@
 ### Hi Vishwas Here 👋
-* I'm Graduated Electronics and Communication Engineer.
-* 🔭 I’m currently working on Python Projects.
+* ⚡ I'm Graduated Electronics and Communication Engineer.
+* 🔭 I’m currently working Wipro as Project Engineer. 
 * 🌱 I’m currently learning Machine learning
 * 🤔 I’m looking for help with Technical things
 * 💬 Ask me about Python and Any Tech related stuff
 * 😄 Pronouns: Vish-was
-* ⚡ Fun fact:A diamond will not dissolve in acid. The only thing that can destroy it is intense heat.
 
 
 ### Connect with me:
