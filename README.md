@@ -1,6 +1,6 @@
 ### Hi Vishwas Here 👋
 * ⚡ I'm Graduated Electronics and Communication Engineer.
-* 🔭 I’m currently working Wipro as Project Engineer. 
+* 🔭 I’m currently working in Wipro as Project Engineer. 
 * 🌱 I’m currently learning Machine learning
 * 🤔 I’m looking for help with Technical things
 * 💬 Ask me about Python and Any Tech related stuff
