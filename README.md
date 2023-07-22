@@ -1,9 +1,9 @@
 ### Hi Vishwas Here 👋
-* ⚡ I'm Graduated Electronics and Communication Engineer.
-* 🔭 I’m currently working in Wipro as Project Engineer. 
-* 🌱 I’m currently learning Machine learning
+* ⚡ Graduated Electronics and Communication Engineer.
+* 🔭 Working in Wipro as Angular Developer. 
+* 🌱 Happy to Collabarate
 * 🤔 I’m looking for help with Technical things
-* 💬 Ask me about Python and Any Tech related stuff
+* 💬 Ask me about web develpoment and Any Tech related stuff
 * 😄 Pronouns: Vish-was
 
 
